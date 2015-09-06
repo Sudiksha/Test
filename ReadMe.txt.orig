@@ -1,5 +1,9 @@
 this is readme .txt file 
 second change
 third change
+<<<<<<< HEAD
 fifth change
+=======
 fourth changes
+
+>>>>>>> MyBranch
